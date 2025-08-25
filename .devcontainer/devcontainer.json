@@ -15,5 +15,5 @@
 	"runArgs": ["--add-host=host.docker.internal:host-gateway"],
 	"containerEnv": {
 		"DOCKER_HOST_ADDR": "host.docker.internal"
-	},
+	}
 }
