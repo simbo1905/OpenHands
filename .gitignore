@@ -259,3 +259,6 @@ containers/runtime/code
 test-results
 
 .openhands-config/
+
+.claude/
+.openhands/microagents/repo.md
