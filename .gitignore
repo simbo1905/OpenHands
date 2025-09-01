@@ -262,3 +262,7 @@ test-results
 
 .claude/
 .openhands/microagents/repo.md
+
+.aider.input.history
+
+.aider.chat.history.md
